@@ -4,3 +4,6 @@ Cara untuk coding php
 - Bikin project memakai PHP
 - Pelajari framework PHP
 - Bikin project menggunakan Framework PHP
+
+Daftar Framework PHP 
+- Laravel
