@@ -1,0 +1,5 @@
+Cara untuk coding js
+- Donwload JS 
+- Install JS 
+- Belajar JS
+- Bikin project pakai JS
