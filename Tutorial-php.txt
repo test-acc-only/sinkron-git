@@ -1,0 +1,6 @@
+Cara untuk coding php
+- Download PHP
+- Pelajari tentang PHP 
+- Bikin project memakai PHP
+- Pelajari framework PHP
+- Bikin project menggunakan Framework PHP
