@@ -7,3 +7,4 @@ Cara untuk coding php
 
 Daftar Framework PHP 
 - Laravel
+- CodeIgniter
